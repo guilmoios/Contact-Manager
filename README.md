@@ -140,11 +140,3 @@ In its simplest form, a `Contact` object consists of the following properties: f
 * Extend the API to support user-defined properties. A user-defined property can have an arbitrary name and data type. 
 
 The persistence mechanism is up to you.  You can store the objects in Kinvey, or in sqlite, or in core data, or you can just keep them in memory. The only important parts are that the API is designed well and it "works". 
-
-## Deliverables
-* Library source code 
-* Documentation on how to use the API
-* A list of future work.
-
-### Note
-There is no “right” solution here and we are not looking for a fully robust set of features. Instead we are interested in understanding the choices you made, given the limited time window. We also care about what you would do next, if you had more time. It is fine to, for example, choose to support a limited set of data types, as long as you clearly document that.
