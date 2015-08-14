@@ -138,5 +138,3 @@ In its simplest form, a `Contact` object consists of the following properties: f
 ## Task
 * Design and implement a simple CRUD API in Objective-C (or Swift) for `Contact` objects. 
 * Extend the API to support user-defined properties. A user-defined property can have an arbitrary name and data type. 
-
-The persistence mechanism is up to you.  You can store the objects in Kinvey, or in sqlite, or in core data, or you can just keep them in memory. The only important parts are that the API is designed well and it "works". 
